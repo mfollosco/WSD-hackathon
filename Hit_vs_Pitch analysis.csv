@@ -1,154 +1,154 @@
-,Hit Type,Pitch Type,Pitch Speed
-0,Strike,Slider,84.0
-1,Strike,Curveball,79.0
-2,Strike,Curveball,78.0
-3,Light Ground Ball,Sinker,94.0
-4,Strike,Curveball,79.0
-5,Hard Hit Ground Ball,Changeup,86.0
-6,Strike,Sinker,93.0
-7,Strike,FourSeamFastball,93.0
-8,Strike,Curveball,79.0
-9,Strike,Sinker,95.0
-10,Hard Hit Ground Ball,Sinker,90.0
-11,Hard Hit Line Drive,Changeup,86.0
-12,Strike,Sinker,93.0
-13,Strike,Slider,81.0
-14,Strike,Sinker,93.0
-15,Strike,Sinker,92.0
-16,Light Ground Ball,Changeup,84.0
-17,Pop Up,Slider,80.0
-18,Strike,Slider,81.0
-19,Strike,Slider,86.0
-20,Strike,Sinker,90.0
-21,Strike,FourSeamFastball,92.0
-22,Strike,Slider,79.0
-23,Hard Hit Ground Ball,Slider,78.0
-24,Strike,Curveball,78.0
-25,Strike,Slider,83.0
-26,Strike,Slider,83.0
-27,Light Line Drive,FourSeamFastball,90.0
-28,Hard Hit Ground Ball,FourSeamFastball,93.0
-29,Strike,Sinker,96.0
-30,Strike,Curveball,78.0
-31,Strike,Changeup,86.0
-32,Fly Ball,Sinker,95.0
-33,Strike,Slider,71.0
-34,Light Line Drive,FourSeamFastball,95.0
-35,Strike,Cutter,92.0
-36,Pop Up,Sinker,90.0
-37,Hard Hit Ground Ball,Cutter,87.0
-38,Strike,FourSeamFastball,90.0
-39,Strike,Slider,83.0
-40,Strike,Slider,86.0
-41,Light Line Drive,Cutter,90.0
-42,Strike,Cutter,88.0
-43,Strike,Sinker,94.0
-44,Pop Up,Slider,82.0
-45,Strike,Sinker,91.0
-46,Strike,Slider,85.0
-47,Hard Hit Ground Ball,Sinker,94.0
-48,Strike,FourSeamFastball,93.0
-49,Strike,Sinker,95.0
-50,Strike,Curveball,77.0
-51,Strike,Curveball,78.0
-52,Hard Hit Line Drive,Sinker,92.0
-53,Strike,Slider,85.0
-54,Strike,Sinker,89.0
-55,Strike,Cutter,87.0
-56,Light Line Drive,FourSeamFastball,93.0
-57,Pop Up,Changeup,83.0
-58,Strike,Curveball,77.0
-59,Strike,FourSeamFastball,91.0
-60,Fly Ball,Slider,86.0
-61,Light Line Drive,Slider,71.0
-62,Power,Slider,80.0
-63,Strike,Sinker,95.0
-64,Light Ground Ball,Changeup,85.0
-65,Strike,FourSeamFastball,97.0
-66,Light Ground Ball,Sinker,91.0
-67,Hard Hit Ground Ball,Sinker,91.0
-68,Strike,Slider,86.0
-69,Fly Ball,Slider,79.0
-70,Hard Hit Ground Ball,Sinker,95.0
-71,Strike,Slider,84.0
-72,Hard Hit Ground Ball,Curveball,78.0
-73,Fly Ball,Changeup,84.0
-74,Strike,Changeup,85.0
-75,Hard Hit Ground Ball,FourSeamFastball,92.0
-76,Fly Ball,FourSeamFastball,90.0
-77,Fly Ball,FourSeamFastball,97.0
-78,Strike,Sinker,90.0
-79,Strike,Slider,84.0
-80,Strike,Slider,85.0
-81,Light Ground Ball,Curveball,79.0
-82,Strike,Sinker,91.0
-83,Light Ground Ball,Sinker,92.0
-84,Strike,Curveball,78.0
-85,Strike,Changeup,86.0
-86,Light Ground Ball,Slider,85.0
-87,Hard Hit Ground Ball,Slider,84.0
-88,Light Line Drive,Curveball,78.0
-89,Power,Sinker,91.0
-90,Strike,FourSeamFastball,92.0
-91,Strike,Slider,80.0
-92,Light Ground Ball,Changeup,86.0
-93,Hard Hit Line Drive,FourSeamFastball,92.0
-94,Strike,Sinker,89.0
-95,Strike,Sinker,93.0
-96,Hard Hit Ground Ball,FourSeamFastball,96.0
-97,Fly Ball,Sinker,91.0
-98,Light Ground Ball,FourSeamFastball,91.0
-99,Strike,Sinker,95.0
-100,Strike,Cutter,90.0
-101,Strike,Sinker,94.0
-102,Strike,Curveball,79.0
-103,Strike,Slider,87.0
-104,Strike,Cutter,87.0
-105,Strike,Sinker,91.0
-106,Strike,Changeup,85.0
-107,Strike,Sinker,93.0
-108,Strike,Changeup,85.0
-109,Strike,Slider,70.0
-110,Strike,Sinker,95.0
-111,Strike,Sinker,93.0
-112,Strike,Curveball,77.0
-113,Strike,Slider,83.0
-114,Strike,Sinker,97.0
-115,Strike,Slider,84.0
-116,Strike,Sinker,96.0
-117,Strike,Sinker,93.0
-118,Strike,FourSeamFastball,93.0
-119,Strike,Changeup,85.0
-120,Strike,Slider,83.0
-121,Strike,FourSeamFastball,94.0
-122,Strike,Sinker,92.0
-123,Strike,Curveball,78.0
-124,Strike,FourSeamFastball,96.0
-125,Strike,Sinker,92.0
-126,Strike,Sinker,92.0
-127,Light Line Drive,Sinker,92.0
-128,Strike,Changeup,87.0
-129,Strike,Sinker,94.0
-130,Strike,Changeup,85.0
-131,Strike,Cutter,88.0
-132,Strike,Changeup,85.0
-133,Strike,Curveball,78.0
-134,Strike,Slider,81.0
-135,Strike,Sinker,92.0
-136,Strike,FourSeamFastball,91.0
-137,Strike,Curveball,78.0
-138,Strike,Sinker,91.0
-139,Strike,Changeup,86.0
-140,Strike,Sinker,96.0
-141,Strike,Sinker,91.0
-142,Strike,Slider,84.0
-143,Strike,FourSeamFastball,94.0
-144,Strike,Sinker,97.0
-145,Strike,Cutter,88.0
-146,Strike,Slider,86.0
-147,Strike,Changeup,86.0
-148,Strike,Sinker,90.0
-149,Strike,FourSeamFastball,91.0
-150,Strike,Changeup,84.0
-151,Strike,Curveball,77.0
-152,Strike,Slider,81.0
+,Hit Type,Pitch Type,Pitch Speed,Good
+0,Strike,Slider,84.0,True
+1,Strike,Curveball,79.0,True
+2,Strike,Curveball,78.0,True
+3,Light Ground Ball,Sinker,94.0,True
+4,Strike,Curveball,79.0,True
+5,Hard Hit Ground Ball,Changeup,86.0,False
+6,Strike,Sinker,93.0,True
+7,Strike,FourSeamFastball,93.0,True
+8,Strike,Curveball,79.0,True
+9,Strike,Sinker,95.0,True
+10,Hard Hit Ground Ball,Sinker,90.0,False
+11,Hard Hit Line Drive,Changeup,86.0,False
+12,Strike,Sinker,93.0,True
+13,Strike,Slider,81.0,True
+14,Strike,Sinker,93.0,True
+15,Strike,Sinker,92.0,True
+16,Light Ground Ball,Changeup,84.0,True
+17,Pop Up,Slider,80.0,True
+18,Strike,Slider,81.0,True
+19,Strike,Slider,86.0,True
+20,Strike,Sinker,90.0,True
+21,Strike,FourSeamFastball,92.0,True
+22,Strike,Slider,79.0,True
+23,Hard Hit Ground Ball,Slider,78.0,False
+24,Strike,Curveball,78.0,True
+25,Strike,Slider,83.0,True
+26,Strike,Slider,83.0,True
+27,Light Line Drive,FourSeamFastball,90.0,True
+28,Hard Hit Ground Ball,FourSeamFastball,93.0,False
+29,Strike,Sinker,96.0,True
+30,Strike,Curveball,78.0,True
+31,Strike,Changeup,86.0,True
+32,Fly Ball,Sinker,95.0,False
+33,Strike,Slider,71.0,True
+34,Light Line Drive,FourSeamFastball,95.0,True
+35,Strike,Cutter,92.0,True
+36,Pop Up,Sinker,90.0,True
+37,Hard Hit Ground Ball,Cutter,87.0,False
+38,Strike,FourSeamFastball,90.0,True
+39,Strike,Slider,83.0,True
+40,Strike,Slider,86.0,True
+41,Light Line Drive,Cutter,90.0,True
+42,Strike,Cutter,88.0,True
+43,Strike,Sinker,94.0,True
+44,Pop Up,Slider,82.0,True
+45,Strike,Sinker,91.0,True
+46,Strike,Slider,85.0,True
+47,Hard Hit Ground Ball,Sinker,94.0,False
+48,Strike,FourSeamFastball,93.0,True
+49,Strike,Sinker,95.0,True
+50,Strike,Curveball,77.0,True
+51,Strike,Curveball,78.0,True
+52,Hard Hit Line Drive,Sinker,92.0,False
+53,Strike,Slider,85.0,True
+54,Strike,Sinker,89.0,True
+55,Strike,Cutter,87.0,True
+56,Light Line Drive,FourSeamFastball,93.0,True
+57,Pop Up,Changeup,83.0,True
+58,Strike,Curveball,77.0,True
+59,Strike,FourSeamFastball,91.0,True
+60,Fly Ball,Slider,86.0,False
+61,Light Line Drive,Slider,71.0,True
+62,Power,Slider,80.0,False
+63,Strike,Sinker,95.0,True
+64,Light Ground Ball,Changeup,85.0,True
+65,Strike,FourSeamFastball,97.0,True
+66,Light Ground Ball,Sinker,91.0,True
+67,Hard Hit Ground Ball,Sinker,91.0,False
+68,Strike,Slider,86.0,True
+69,Fly Ball,Slider,79.0,False
+70,Hard Hit Ground Ball,Sinker,95.0,False
+71,Strike,Slider,84.0,True
+72,Hard Hit Ground Ball,Curveball,78.0,False
+73,Fly Ball,Changeup,84.0,False
+74,Strike,Changeup,85.0,True
+75,Hard Hit Ground Ball,FourSeamFastball,92.0,False
+76,Fly Ball,FourSeamFastball,90.0,False
+77,Fly Ball,FourSeamFastball,97.0,False
+78,Strike,Sinker,90.0,True
+79,Strike,Slider,84.0,True
+80,Strike,Slider,85.0,True
+81,Light Ground Ball,Curveball,79.0,True
+82,Strike,Sinker,91.0,True
+83,Light Ground Ball,Sinker,92.0,True
+84,Strike,Curveball,78.0,True
+85,Strike,Changeup,86.0,True
+86,Light Ground Ball,Slider,85.0,True
+87,Hard Hit Ground Ball,Slider,84.0,False
+88,Light Line Drive,Curveball,78.0,True
+89,Power,Sinker,91.0,False
+90,Strike,FourSeamFastball,92.0,True
+91,Strike,Slider,80.0,True
+92,Light Ground Ball,Changeup,86.0,True
+93,Hard Hit Line Drive,FourSeamFastball,92.0,False
+94,Strike,Sinker,89.0,True
+95,Strike,Sinker,93.0,True
+96,Hard Hit Ground Ball,FourSeamFastball,96.0,False
+97,Fly Ball,Sinker,91.0,False
+98,Light Ground Ball,FourSeamFastball,91.0,True
+99,Strike,Sinker,95.0,True
+100,Strike,Cutter,90.0,True
+101,Strike,Sinker,94.0,True
+102,Strike,Curveball,79.0,True
+103,Strike,Slider,87.0,True
+104,Strike,Cutter,87.0,True
+105,Strike,Sinker,91.0,True
+106,Strike,Changeup,85.0,True
+107,Strike,Sinker,93.0,True
+108,Strike,Changeup,85.0,True
+109,Strike,Slider,70.0,True
+110,Strike,Sinker,95.0,True
+111,Strike,Sinker,93.0,True
+112,Strike,Curveball,77.0,True
+113,Strike,Slider,83.0,True
+114,Strike,Sinker,97.0,True
+115,Strike,Slider,84.0,True
+116,Strike,Sinker,96.0,True
+117,Strike,Sinker,93.0,True
+118,Strike,FourSeamFastball,93.0,True
+119,Strike,Changeup,85.0,True
+120,Strike,Slider,83.0,True
+121,Strike,FourSeamFastball,94.0,True
+122,Strike,Sinker,92.0,True
+123,Strike,Curveball,78.0,True
+124,Strike,FourSeamFastball,96.0,True
+125,Strike,Sinker,92.0,True
+126,Strike,Sinker,92.0,True
+127,Light Line Drive,Sinker,92.0,True
+128,Strike,Changeup,87.0,True
+129,Strike,Sinker,94.0,True
+130,Strike,Changeup,85.0,True
+131,Strike,Cutter,88.0,True
+132,Strike,Changeup,85.0,True
+133,Strike,Curveball,78.0,True
+134,Strike,Slider,81.0,True
+135,Strike,Sinker,92.0,True
+136,Strike,FourSeamFastball,91.0,True
+137,Strike,Curveball,78.0,True
+138,Strike,Sinker,91.0,True
+139,Strike,Changeup,86.0,True
+140,Strike,Sinker,96.0,True
+141,Strike,Sinker,91.0,True
+142,Strike,Slider,84.0,True
+143,Strike,FourSeamFastball,94.0,True
+144,Strike,Sinker,97.0,True
+145,Strike,Cutter,88.0,True
+146,Strike,Slider,86.0,True
+147,Strike,Changeup,86.0,True
+148,Strike,Sinker,90.0,True
+149,Strike,FourSeamFastball,91.0,True
+150,Strike,Changeup,84.0,True
+151,Strike,Curveball,77.0,True
+152,Strike,Slider,81.0,True
