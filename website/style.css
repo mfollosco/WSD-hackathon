@@ -3,17 +3,17 @@ h1{
     text-align: center;
 }
 
-.navbar{
+.navbar {
     list-style-type: none;
     padding: 0px;
     margin: 0px;
 }
 
 .navbar a{
-    color: white;
-    padding: 15px;
+    padding: 14px;
     text-decoration: none;
     text-align: center;
     display: block;
+    background-color: black;
 }
 
