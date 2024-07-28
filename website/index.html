@@ -10,25 +10,52 @@
     <header>
         <h1>WSD Hackathon</h1>
         <ul class="navbar">
-            <li><a href="index.html">Predictions</a></li>
-            <li><a href="model1.html">Model 1</a></li>
-            <li><a href="model2.html">Model 2</a></li>
+            <li><a href="#ballvisual">Predictions</a></li>
+            <li><a href="#pitchinitialspeed">Model 1</a></li>
+            <li><a href="#pitchtype">Model 2</a></li>
         </ul>
     </header>
     <br><br><br><br>
     <section class="homepage">
-        <div class="boxwrap">
+        <h2 id="ballvisual">Ball</h2>
+        <div class="container">
             <div class = "contentimg">
                 <h3>3D Plot for First Frame</h3>
                 <img src="./assets/3dplot.png">
             </div>
             <div class = "contentimg">
                 <h3>Final Ball Heatmap</h3>
-                <img src="./assets/heatmap.png">
+                <img src="../pitch_graphs/BallCloseupVisual.gif">
             </div>
             <div class = "contentimg">
                 <h3>Violin Plot Pitch Spin for Hits vs Miss</h3>
-                <img src="./assets/violinplot.png">
+                <img src="../pitch_graphs/FullBallVisual.gif">
+            </div>
+        </div>
+        <h2 id="pitchinitialspeed">Pitch Initial Speed Predictions</h2>
+        <div class="container">
+            <div class = "contentimg">
+                <h3>Pitch Initial Speed Frequency Histogram</h3>
+                <img src="../pitch_graphs/Pitch Initial Speed Frequency Histogram.png">
+            </div>
+            <div class = "contentimg">
+                <h3>Pitch Initial Speed Frequency Histogram</h3>
+                <img src="../pitch_graphs/Pitch Initial Speed Frequency.png">
+            </div>
+            <div class = "contentimg">
+                <h3>Pitch Initial Speed Frequency Histogram</h3>
+                <img src="../pitch_graphs/Pitch Initial Spin Frequency Histogram.png">
+            </div>
+        </div>
+        <h2 id="pitchtype">Pitch Type Predictions</h2>
+        <div class="container">
+            <div class = "contentimg">
+                <h3>Pitch Type Action Counts</h3>
+                <img src="../pitch_graphs/Pitch Type Action Counts.png">
+            </div>
+            <div class = "contentimg">
+                <h3>Pitch Initial Speed Frequency Histogram</h3>
+                <img src="../pitch_graphs/Pitch Type Outcomes.png">
             </div>
         </div>
     </section>
