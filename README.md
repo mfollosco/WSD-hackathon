@@ -52,7 +52,8 @@ Two methods were used to calculate the correlations between the additional calcu
 - Method 2 (boolean): each unique quantitative outcome is turned into its own factor, and the elements in each column are boolean values determining if each unique quantitative outcome applies or not. The relationship between the hit resulting in a fly ball and the hit grade had an acceptable negative correlation coefficient of r = -0.736379.
 
 ### Display/HTML:
-We compiled all of our findings into an easily accessible html file for coaches and staff to be able to analyze their series predictions and analytics all in one place
+We compiled all of our findings into an easily accessible html file for coaches and staff to be able to analyze their series predictions and analytics all in one place.
+<img src="https://github.com/mfollosco/WSD-hackathon/blob/main/assets/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Model
 We were able to train a model with a 87% accuracy to predict whether a pitch was favorable to the pitcher or not depending on pitch type and pitch speed.
