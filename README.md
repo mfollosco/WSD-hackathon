@@ -53,6 +53,7 @@ Two methods were used to calculate the correlations between the additional calcu
 
 ### Display/HTML:
 We compiled all of our findings into an easily accessible html file for coaches and staff to be able to analyze their series predictions and analytics all in one place.
+
 <img src="https://github.com/mfollosco/WSD-hackathon/blob/main/assets/walkthrough1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Model
