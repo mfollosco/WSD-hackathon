@@ -41,9 +41,10 @@
                 <h3>Pitch Speed by Hit Type</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchSpeed.PNG">
                 <div class="text">
-                    <p>This heatmap was used to visualize the distribution of initial pitch speed, another input into our model, based on the hit type.</p>
+                    <p>This histogram was used to visualize the distribution of initial pitch speed, another input into our model, based on the hit type.</p>
                 </div>
             </div>
+            <br>
             <!--Graph Image 3-->
             <div class = "contentimg">
                 <h3>Confusion Matrix Heatmap</h3>
@@ -59,11 +60,31 @@
                 </div>
             </div>
         </div>
+        <br>
+        <div class="container">
+            <!--Graph Image 4-->
+            <div class = "contentimg">
+                <h3>Hit Classification Dataframe</h3>
+                <img class="graphimg" src="./pitch_graphs/Dataframe.PNG">
+                <div class="text">
+                    <p>This dataframe shows hit classification relationships the model is being trained on. It differentiates the pitch type depending on different label encodings. Here the user (likely the pitcher) is able to input a pitch type and pitch speed and determine if the outcome is in their favor or not. In the future we would have a whole table output of results and percentages of favorability, rather than one result at a time (assuming the model trained on a larger sample size)</p>
+                </div>
+            </div>
+            <!--Graph Image 5-->
+            <div class = "contentimg">
+                <h3>Correlation Dataframe</h3>
+                <img class="graphimg" src="./pitch_graphs/Correlations.PNG">
+                <div class="text">
+                    <p>This dataframe shows the correlation between different variables in the dataset. The correlation is a value between 0 and 1, where 1 indicates a strong positive correlation. 
+                    </p>
+                </div>
+            </div>
+        </div>
 
         <!--3D Bat and Ball Visualization Section-->
         <h2 id="3D">3D Bat and Ball Visualization</h2>
         <div class="container">
-            <!--Graph Image 4-->
+            <!--Graph Image 6-->
             <div class = "contentimg">
                 <h3>Hit Close-up</h3>
                 <img class="graphimg" src="./pitch_graphs/BallCloseupVisual.gif">
@@ -72,7 +93,7 @@
                     </p>
                 </div>
             </div>
-            <!--Graph Image 5-->
+            <!--Graph Image 7-->
             <div class = "contentimg">
                 <h3>Full Trajectory</h3>
                 <img class="graphimg" src="./pitch_graphs/FullBallVisual.gif">
@@ -86,7 +107,7 @@
         <!--Pitch Type Heatmap Section-->
         <h2 id="pitchtype">Pitch Type Heatmap</h2>
         <div class="container">
-            <!--Graph Image 6-->
+            <!--Graph Image 8-->
             <div class = "contentimg">
                 <h3>Pitch Type to Outcome Counts</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchTypeOutcome.PNG">
@@ -95,7 +116,7 @@
                     </p>
                 </div>
             </div>
-            <!--Graph Image 7-->
+            <!--Graph Image 9-->
             <div class = "contentimg">
                 <h3>Pitch Type to Action Count</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchTypeAction.PNG">
@@ -104,7 +125,7 @@
                     </p>
                 </div>
             </div>
-            <!--Graph Image 8-->
+            <!--Graph Image 10-->
             <div class = "contentimg">
                 <h3>Pitch Type to Inning Number Count</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchTypeInning.PNG">
@@ -118,7 +139,7 @@
         <!--Pitch Data by Pitch Type Section-->
         <h2 id="pitchdata">Pitch Data by Pitch Type</h2>
         <div class="container">
-            <!--Graph Image 9-->
+            <!--Graph Image 11-->
             <div class = "contentimg">
                 <h3>Pitch Initial Speed Frequency</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchInitialSpeedFreq.PNG">
@@ -126,7 +147,7 @@
                     <p>Histogram of the initial speed for each pitch categorized by pitch type.</p>
                 </div>
             </div>
-            <!--Graph Image 10-->
+            <!--Graph Image 12-->
             <div class = "contentimg">
                 <h3>Pitch Initial Spin Frequency</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchInitialSpinFreq.PNG">
@@ -139,7 +160,7 @@
         <!--Pitch Data by Result Section-->
         <h2 id="pitchresult">Pitch Data by Result</h2>
         <div class="container">
-            <!--Graph Image 11-->
+            <!--Graph Image 13-->
             <div class = "contentimg">
                 <h3>Pitch Speed Distribution</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchSpeedDistribution.PNG">
@@ -147,7 +168,7 @@
                     <p>Histogram of the initial speed for each pitch categorized by result.</p>
                 </div>
             </div>
-            <!--Graph Image 12-->
+            <!--Graph Image 14-->
             <div class = "contentimg">
                 <h3>Pitch Spin Distribution</h3>
                 <img class="graphimg" src="./pitch_graphs/PitchSpinDistribution.PNG">
